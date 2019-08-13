@@ -14,14 +14,14 @@ Compatability will take in results from users' surveys, then compare their answe
 
 
 =======
-![](home/1.png)
+![](images/home.png)
 
 <<<<<<< ### Step Two
 
 The user is able to click into the Api List to see possible matches and results in an array.
 
 =======
-![](ApiList/2.png)
+![](images/ApiList.png)
 
 
 <<<<<<< ### Step Three
@@ -30,12 +30,12 @@ The user is able to click into the Api List to see possible matches and results 
 
 
 =======
-![](Survey/3.png)
+![](images/Survey.png)
 
 <<<<<<< ### Step Four
 
 Once we've found the current user's most compatible friend, and the submit button is clicked we display the result as a modal pop-up. The modal will display both the name and picture of the closest match!
 
 =======
-![](Match/4.png)
+![](images/Match.png)
 
